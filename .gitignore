@@ -1,0 +1,8 @@
+# ENV file
+.env
+
+#Modules
+node_modules
+
+# Data
+reminders.json
